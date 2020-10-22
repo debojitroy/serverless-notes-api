@@ -1,3 +1,5 @@
+org: debojitgithub
+app: notes
 service: notes-api
 
 # Create an optimized package for our functions 
